@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Pizza_Shop_POS_Java-free-src-Code-main/Pizza_POS/src"/>
+	<classpathentry kind="output" path="Pizza_Shop_POS_Java-free-src-Code-main/Pizza_POS/build/classes"/>
+</classpath>
